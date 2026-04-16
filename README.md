@@ -4,7 +4,7 @@ I'm Kavin.
 
 I bring my imagination to reality using tech.
 
-My main tech stack is C#
+My main tech stack is Python, SQL
 
 **Fun Facts:**
 - I'm a Polymath
